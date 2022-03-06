@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body {
+    background-color: rgb(247, 229, 242);
+    
+}
+
+div#interface h1 {
+    font-style:italic;
+    font-size: medium;
+    box-shadow: 7px 5px 4px  violet;
+}
+
+div#interface h2 {
+    font-size: medium;
+    box-shadow: #888888;
+    font-style: oblique;
+    text-shadow: gray;
+    color: gray;
+
+}
+
+header#cabecalho-artigo h3 {
+     font-size: unset;
+     font-style: inherit;
+     
+}
+
+img#icone  {
+    left: 100px;
+    width: 300px;
+    top: 20pt;
+    height: 200px;
+}
+
+figure#class img {
+    left: 20px;
+    width: 40px;
+    top: 20pt;
+    height: 400px;
+    right: 200px;
+    
+
+}
+
+footer#rodape {
+    font-style: italic;
+    color: black;
+    box-shadow: 1px 6px 7px rgb(202, 47, 202);
+    font-size: medium;
+
+}
+
+footer#rodape img {
+    left: 200px;
+    width: 100px;
+    top: 10pt;
+    height: 80px;
+}
+
+
+
+
+
+
